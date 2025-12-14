@@ -3,10 +3,10 @@ from product_det import get_product_info
 
 def test_product_details():
     # Sample data
-    name = "smart watch"
-    emp_id = "123"
-    department = "4"
-    salary = "550"
+    product_name = "smart watch"
+    product_id = "123"
+    quantity = "4"
+    price = "550"
 
     expected_output = (
         "product Name:smart watch,"
