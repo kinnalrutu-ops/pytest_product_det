@@ -1,7 +1,7 @@
 import pytest
 from product_det import get_product_info
 
-def test_employee_details():
+def test_product_details():
     # Sample data
     name = "smart watch"
     emp_id = "123"
