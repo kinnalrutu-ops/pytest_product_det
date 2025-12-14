@@ -10,4 +10,4 @@ def get_product_info(product_name, product_id, quantity, price):
     )
 if __name__ == "__main__":
     print("=== product details ===")
-    print(get_employee_info("smart watch","123","4",550))
+    print(get_product_info("smart watch","123","4",550))
